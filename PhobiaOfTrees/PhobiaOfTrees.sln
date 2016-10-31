@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhobiaOfTrees.CSharp.Plugins", "PhobiaOfTrees.CSharp.Plugins.csproj", "{B9DF170D-E0D6-DCE2-21AA-D7BA7FF531C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhobiaOfTrees.CSharp.Editor", "PhobiaOfTrees.CSharp.Editor.csproj", "{FCAE5B83-1694-E442-C504-FEFB61524109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9DF170D-E0D6-DCE2-21AA-D7BA7FF531C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DF170D-E0D6-DCE2-21AA-D7BA7FF531C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DF170D-E0D6-DCE2-21AA-D7BA7FF531C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DF170D-E0D6-DCE2-21AA-D7BA7FF531C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAE5B83-1694-E442-C504-FEFB61524109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAE5B83-1694-E442-C504-FEFB61524109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAE5B83-1694-E442-C504-FEFB61524109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAE5B83-1694-E442-C504-FEFB61524109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
